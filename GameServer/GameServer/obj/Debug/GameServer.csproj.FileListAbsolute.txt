@@ -1,0 +1,13 @@
+C:\Users\Ahpily\Desktop\GameServer\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+C:\Users\Ahpily\Desktop\GameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\Ahpily\Desktop\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Users\Ahpily\Desktop\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Users\Ahpily\Desktop\GameServer\GameServer\bin\Debug\AhpilyServer.dll
+C:\Users\Ahpily\Desktop\GameServer\GameServer\bin\Debug\AhpilyServer.pdb
+C:\Users\Ahpily\Desktop\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Users\Ahpily\Desktop\GameServer\GameServer\obj\Debug\GameServer.pdb
+C:\Users\Ahpily\Desktop\GameServer\GameServer\bin\Debug\Protocol.dll
+C:\Users\Ahpily\Desktop\GameServer\GameServer\bin\Debug\Protocol.pdb
+C:\Users\Ahpily\Desktop\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+G:\game source\game project\NewGame\DDZ\GameServer\GameServer\obj\Debug\GameServer.exe
+G:\game source\game project\NewGame\DDZ\GameServer\GameServer\obj\Debug\GameServer.pdb

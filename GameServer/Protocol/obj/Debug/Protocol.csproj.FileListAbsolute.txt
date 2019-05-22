@@ -1,0 +1,14 @@
+C:\Users\Ahpily\Desktop\GameServer\Protocol\bin\Debug\Protocol.dll
+C:\Users\Ahpily\Desktop\GameServer\Protocol\bin\Debug\Protocol.pdb
+C:\Users\Ahpily\Desktop\GameServer\Protocol\obj\Debug\Protocol.csprojResolveAssemblyReference.cache
+C:\Users\Ahpily\Desktop\GameServer\Protocol\obj\Debug\Protocol.dll
+C:\Users\Ahpily\Desktop\GameServer\Protocol\obj\Debug\Protocol.pdb
+C:\Users\Ahpily\Desktop\Card\Assets\Plugins\Protocol.dll
+C:\Users\Ahpily\Desktop\Card\Assets\Plugins\Protocol.pdb
+C:\Users\Ahpily\Desktop\GameServer\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+G:\game source\game project\NewGame\DDZ\Card\Assets\Plugins\Protocol.dll
+G:\game source\game project\NewGame\DDZ\Card\Assets\Plugins\Protocol.pdb
+G:\game source\game project\NewGame\DDZ\GameServer\Protocol\obj\Debug\Protocol.csprojAssemblyReference.cache
+G:\game source\game project\NewGame\DDZ\GameServer\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+G:\game source\game project\NewGame\DDZ\GameServer\Protocol\obj\Debug\Protocol.dll
+G:\game source\game project\NewGame\DDZ\GameServer\Protocol\obj\Debug\Protocol.pdb
